@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kbarishatipoglu
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on people who study on Python and its modules.
 - 📫 How to reach me kbarishatipoglu@gmail.com
